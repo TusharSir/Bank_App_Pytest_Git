@@ -1,1 +1,0 @@
-"C:\Users\HP\AppData\Local\Programs\Python\Python311\Scripts\pytest.exe" -v -n=4 -m "sanity and group1" --html=HTMLReport/myreport_chrome.html --alluredir="Allure-results" -p no:warnings
