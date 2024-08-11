@@ -30,7 +30,7 @@ class Test_UserProfile:
         self.driver = setup
         self.Log.info("Opening browser")
         self.Log.info("Checking page title")
-        if self.driver.title == "Bank Application":
+        if self.driver.title == "Bank Application1":
             self.Log.info("Testcase test_BankApp_Url_001 is passed")
             self.Log.info("Taking screenshot")
             allure.attach(self.driver.get_screenshot_as_png(), name="test_BankApp_Url_001_pass", attachment_type=AttachmentType.PNG)
