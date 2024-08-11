@@ -1,7 +1,0 @@
-[32mINFO    [0m Test_UserProfile:test_UserProfile.py:50 Testcase test_Signup_002 is started
-[32mINFO    [0m Test_UserProfile:test_UserProfile.py:52 Opening browser
-[32mINFO    [0m Test_UserProfile:test_UserProfile.py:55 User1O7TH8
-[32mINFO    [0m Test_UserProfile:test_UserProfile.py:57 Entering the Password
-[32mINFO    [0m Test_UserProfile:test_UserProfile.py:59 Userie2QsQ@gmail.com
-[32mINFO    [0m Test_UserProfile:test_UserProfile.py:61 3014123100
-[32mINFO    [0m Test_UserProfile:test_UserProfile.py:63 Click on Create user button
